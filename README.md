@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Oelkreamy/omarashraf1233/edit/main/README.md" alt="Banner Image">
+  <img src="https://github.com/Oelkreamy/omarashraf1233/edit/main/logo.jpg" alt="Banner Image">
 </p>
 
 ### Hi there, I'm [Your Name]! 👋
