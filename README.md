@@ -2,7 +2,7 @@
   <img src="https://github.com/Oelkreamy/omarashraf1233/edit/main/logo.jpg" alt="Banner Image">
 </p>
 
-### Hi there, I'm [Your Name]! 👋
+### Hi there, I'm Omar Ashraf! 👋
 
 I'm a highly motivated and dedicated mechatronics engineer with a strong technical background. My expertise includes SolidWorks, industrial automation tools, embedded systems, Python, and C programming. I'm passionate about driving innovation through mechatronics principles and hands-on experience with advanced technologies.
 
