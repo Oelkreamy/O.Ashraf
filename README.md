@@ -83,10 +83,7 @@ I'm a highly motivated and dedicated mechatronics engineer with a strong technic
 If you're interested in collaborating or just want to chat, feel free to reach out. I'm always excited to connect with fellow developers and creators.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-username" target="_blank">
+  <a href="https://www.linkedin.com/in/omar-elkreamy" target="_blank">
     <img src="https://github.com/your-username/your-repo/raw/main/assets/linkedin.png" alt="LinkedIn" height="30">
-  </a>
-  <a href="https://twitter.com/your-username" target="_blank">
-    <img src="https://github.com/your-username/your-repo/raw/main/assets/twitter.png" alt="Twitter" height="30">
   </a>
 </p>
